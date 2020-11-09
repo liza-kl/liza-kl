@@ -2,7 +2,7 @@
 
 ## I'm a CS-Student, Frontend Lover & passionate Climber 🧗🏻
 
-- I'm currently working on PlantsHub
+- ⭐️ Currently working on PlantsHub
 - 🐝 Focusing on Angular & React 
 - 🏈 Goals for 2020: Working on PlantsHub, make some cool stuff with React 
 
