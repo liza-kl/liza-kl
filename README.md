@@ -1,4 +1,4 @@
-### Hi there, I'm Lisa – aka keykenna 👾
+### Hi there, I'm Lisa 👾
 
 ## I'm a CS-Student, Frontend Lover & passionate Climber 🧗🏻
 
