@@ -1,6 +1,8 @@
 <img src='https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.5/GIF/512/smiling_face_with_hearts.gif?Expires=1605306557&Signature=HepDI65fCORcQ2WM5RqLMzxrAREZ208Li6DOhz18O2khLHzSx1r96paiEU950QxxI8hL1gUJNBcor1xjnMGjJRkEQTLV5ZWCvX~tEKNOq74baxvd-DsxAfs0t~05VhVP34n2EwCL3f5p0j7HfK5xg4ybkkIRrHTWTBaTaVI77X7YH-VMbSBogOW473Xcz9ljAzjsz6AZoghEvTWUj96mXNBLp2uF5QDI~yOCfcTSAz5sH4syqzKuCOLKVtVr~fhEIlp925fM9hQBx8AlrdDjX8L35DJ~OGEB7k~vDxJgqDYZpkJeZS2yrk6Br9CXW0NSmvoJMwXf5GT0LJXf0APxtA__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA' height=32px width=32px/><b>Hi there, I'm Lisa </b><img src='https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.5/GIF/512/smiling_face_with_hearts.gif?Expires=1605306557&Signature=HepDI65fCORcQ2WM5RqLMzxrAREZ208Li6DOhz18O2khLHzSx1r96paiEU950QxxI8hL1gUJNBcor1xjnMGjJRkEQTLV5ZWCvX~tEKNOq74baxvd-DsxAfs0t~05VhVP34n2EwCL3f5p0j7HfK5xg4ybkkIRrHTWTBaTaVI77X7YH-VMbSBogOW473Xcz9ljAzjsz6AZoghEvTWUj96mXNBLp2uF5QDI~yOCfcTSAz5sH4syqzKuCOLKVtVr~fhEIlp925fM9hQBx8AlrdDjX8L35DJ~OGEB7k~vDxJgqDYZpkJeZS2yrk6Br9CXW0NSmvoJMwXf5GT0LJXf0APxtA__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA' height=32px width=32px/>
 
 ## I'm a CS-Student, Frontend Lover & passionate Climber 🧗🏻
+<img src='https://media4.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47691d315a1b06fcbb80e107184baab419a0337b27&rid=giphy.gif'/>
+
 
 - ⭐️ Currently working on PlantsHub
 - 🐝 Focusing on Angular & React 
