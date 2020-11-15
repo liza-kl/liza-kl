@@ -5,8 +5,6 @@
 - ⭐️ Currently working on <a href='https://github.com/qt1337/PlantsHub'>PlantsHub</a>
 - 🐝 Focusing on Angular & React 
 - 🏈 Goals for 2020: Working on PlantsHub, make some cool stuff with React<br>
-<br><br><br>
-
 
 
 ### Languages and Tools:
@@ -24,13 +22,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liza-kl&show_icons=true&theme=radical)
 
 ### Get in Touch with Me!
 <p><img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"/>keykenna#8628</p>
 
 <p><img align="left" alt="Terminal" width="26px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>elizabethxkl</p>
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liza-kl&show_icons=true&theme=radical)
