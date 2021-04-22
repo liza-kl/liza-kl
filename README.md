@@ -4,7 +4,7 @@
 
 - ⭐️ Currently working on <a href='https://github.com/qt1337/PlantsHub'>PlantsHub</a>
 - 🐝 Focusing on Angular & React 
-- 🏈 Goals for 2020: Working on PlantsHub, make some cool stuff with React<br>
+- 🏈 Goals for 2021: Working on PlantsHub, make some cool stuff with React<br>
 
 
 ### Languages and Tools:
