@@ -25,9 +25,8 @@
 <br>
 
 ### Let's be creative together!
-<p><img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"/>keykenna#8628</p>
+<p><img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"/>li54#8628</p>
 
-<p><img align="left" alt="Terminal" width="26px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>elizabethxkl</p>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liza-kl&show_icons=true&theme=radical)
