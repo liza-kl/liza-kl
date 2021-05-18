@@ -19,7 +19,7 @@
 
 <br>
 
-### Let's be work together!
+### Let's get creative together!
 <p><img align="left" alt="Terminal" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png"/>li54#8628</p>
 
 
