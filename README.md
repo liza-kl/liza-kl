@@ -38,7 +38,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />... <i>and Software Design Patterns</i>
 </p>
 
 ## &#128126; 𝕷𝖊𝖙'𝖘 𝖌𝖊𝖙 𝖈𝖗𝖊𝖆𝖙𝖎𝖛𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗! &#127912; </h3>
