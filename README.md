@@ -15,7 +15,7 @@
 <b>Styling applications with...</b>
 <p>
 <img src="https://img.shields.io/badge/-Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
-<img src="https://img.shields.io/badge/-CSS-282C34?logo=css3&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/-CSS-282C34?logo=css3&logoColor=CC6699" alt="CSS3 logo" title="Sass" height="25" />
 
 <img src="https://img.shields.io/badge/-StyledComponents-282C34?logo=styled-components&logoColor=DB7093" alt="Styled Components logo" title="Styled Components" height="25" />
 </p>
@@ -29,7 +29,7 @@
 <b>Using these timemachines from time to time...</b>
 <p>
 <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032" alt="Git logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" />
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />
 <img src="https://img.shields.io/badge/GitLab-282C34?logo=GitLab&logoColor=7F52FF" alt="GitLab logo" title="GitLab" height="25" />
 </p>
 
