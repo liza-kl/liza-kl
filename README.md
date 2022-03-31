@@ -1,5 +1,5 @@
 <p>
-<img align="center" src="https://i.ibb.co/92yRZ0R/TT-Norms.png" width="80%" /><img align="center" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" width="20%" height="100%" />
+<img align="center" src="https://i.ibb.co/92yRZ0R/TT-Norms.png" width="80%" /><img align="center" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" width="20%" height="202px" />
 </p>
 
 ##  &#128483; 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰 𝔞𝔫𝔡 𝔗𝔬𝔬𝔩𝔰 &#128295;
