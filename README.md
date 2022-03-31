@@ -2,7 +2,7 @@
 <img align="center" src="https://i.ibb.co/92yRZ0R/TT-Norms.png" width="80%" /><img align="center" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" width="20%" />
 </p>
 
-##  &#128483;Languages and Tools&#128295;
+##  &#128483; 𝔏𝔞𝔫𝔤𝔲𝔞𝔤𝔢𝔰 𝔞𝔫𝔡 𝔗𝔬𝔬𝔩𝔰 &#128295;
 
 <b>Adding interactivity to applications with...</b>
 
@@ -34,14 +34,14 @@
 </p>
 
 
-## &#128218; What I am currently learning / improving on &#128221;
+## &#128218; 𝖂𝖍𝖆𝖙 𝕴 𝖆𝖒 𝖈𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 / 𝖎𝖒𝖕𝖗𝖔𝖛𝖎𝖓𝖌 𝖔𝖓 &#128221;
 
 <p>
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
 </p>
 
-## &#128126; Let's get creative together! &#127912; </h3>
+## &#128126; 𝕷𝖊𝖙'𝖘 𝖌𝖊𝖙 𝖈𝖗𝖊𝖆𝖙𝖎𝖛𝖊 𝖙𝖔𝖌𝖊𝖙𝖍𝖊𝖗! &#127912; </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-li54%238628-282C34?logo=Discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />
