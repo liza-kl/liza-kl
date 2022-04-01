@@ -45,6 +45,13 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-li54%238628-282C34?logo=Discord&logoColor=white" alt="Discord logo" title="Discord" height="25" />
+  <a href="https://www.linkedin.com/in/elisabeth-kletsko/" target="_blank">
+  <img src="https://img.shields.io/badge/-elisabeth.kletsko-282C34?logo=LinkedIn&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />
+  </a>
+  <img src="https://img.shields.io/badge/-hello@li54.dev-282C34?logo=Gmail&logoColor=white" alt="Email logo" title="Email" height="25" />
+  <a href="https://li54.dev" target="_blank">
+  <img src="https://img.shields.io/badge/-li54.dev-282C34?logo=Gmail&logoColor=white" alt="Email logo" title="Email" height="25" />
+  </a>
 </p>
 
 
