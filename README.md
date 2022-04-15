@@ -37,8 +37,9 @@
 
 
 ## &#128218; 𝖂𝖍𝖆𝖙 𝕴 𝖆𝖒 𝖈𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 / 𝖎𝖒𝖕𝖗𝖔𝖛𝖎𝖓𝖌 𝖔𝖓 &#128221;
-
+(actually on everything what I'm working with but especially with these guys 🙃) 
 <p>
+  <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=007396" alt="Java logo" title="Java" height="25" />
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=Kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />... <i>and Software Design Patterns</i>
 </p>
