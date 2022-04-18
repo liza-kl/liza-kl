@@ -21,12 +21,6 @@
 
 <img src="https://img.shields.io/badge/-StyledComponents-282C34?logo=styled-components&logoColor=DB7093" alt="Styled Components logo" title="Styled Components" height="25" />
 </p>
-  
-<b>Bringing logic into application with...</b>
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=339933" alt="Nodejs logo" title="Node.js" height="25" />
-</p>
 
 <b>Using these timemachines from time to time...</b>
 <p>
